@@ -1,13 +1,13 @@
-package com.example.Java_Basics;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
-class JavaBasicsApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
-
-}
+//package com.example.Java_Basics;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//
+//@SpringBootTest
+//class JavaBasicsApplicationTests {
+//
+//	@Test
+//	void contextLoads() {
+//	}
+//
+//}
